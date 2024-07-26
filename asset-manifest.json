@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DigitalInnovation/static/css/main.67f53b10.css",
+    "main.js": "/DigitalInnovation/static/js/main.d7e07dce.js",
+    "static/media/digmar.jpg": "/DigitalInnovation/static/media/digmar.2f2ca29fc72c1f79383d.jpg",
+    "static/media/cn.webp": "/DigitalInnovation/static/media/cn.4725f4b910d6cb4475b3.webp",
+    "static/media/sofdev.jpg": "/DigitalInnovation/static/media/sofdev.9528a6a91e90a627b2cb.jpg",
+    "static/media/mark.avif": "/DigitalInnovation/static/media/mark.c6a534f99ee6187c2ef6.avif",
+    "static/media/andrdev.webp": "/DigitalInnovation/static/media/andrdev.c53e179421b0a5edfc61.webp",
+    "static/media/webdev.jpeg": "/DigitalInnovation/static/media/webdev.ff5f6b9396feba68bc79.jpeg",
+    "static/media/appdev.webp": "/DigitalInnovation/static/media/appdev.a24d5e49bc18e738021b.webp",
+    "static/media/di.avif": "/DigitalInnovation/static/media/di.cd0c028e1e772837ca4d.avif",
+    "index.html": "/DigitalInnovation/index.html",
+    "main.67f53b10.css.map": "/DigitalInnovation/static/css/main.67f53b10.css.map",
+    "main.d7e07dce.js.map": "/DigitalInnovation/static/js/main.d7e07dce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f53b10.css",
+    "static/js/main.d7e07dce.js"
+  ]
+}
